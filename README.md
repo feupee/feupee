@@ -62,7 +62,7 @@
 
 <td width="50%" align="center">
 <img  title="Mark Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=feupee&theme=dark&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=feupee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Feupee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
