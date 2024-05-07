@@ -59,15 +59,12 @@
 </p>  
 
 <h3 align="center"> GitHub Status </h3>
-<table border="0">
+<table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=feupee&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
+  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feupee&bg_color=151515&border_color=151515&title_color=dddddd)
 
-<td width="50%" align="center">
-<img  title="Mark Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=feupee&theme=dark&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Feupee&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
