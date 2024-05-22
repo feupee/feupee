@@ -63,7 +63,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feupee&bg_color=151515&border_color=151515&title_color=dddddd)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feupee&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </td>
 </tr>
