@@ -66,7 +66,8 @@
 <tr border="0">
 <td width="50%" align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feupee&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feupee&layout=compact&bg_color=000&border_color=404040&title_color=FFF&text_color=FFF)
+
 
 </td>
 </tr>
