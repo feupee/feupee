@@ -16,7 +16,7 @@
 <h3 align="center"> About me! 👨‍💻</h3>
 - 🔭 I’m currently working on improving myself! <br>
 - 🎓 Student at Uberlândia Federal University, at 5th period. <br>
-- 💻 Currently learning more about R! <br>
+- 💻 Currently learning more about Java! <br>
 - ✈️ Looking and open for new opportunities.
 </div>
 
