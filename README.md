@@ -65,13 +65,9 @@
 <hr>
 </p>  
 
-<h3 align="center"> GitHub Status </h3>
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feupee&layout=compact&bg_color=000&border_color=404040&title_color=FFF&text_color=FFF)
-
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feupee&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
 
 </td>
 </tr>
