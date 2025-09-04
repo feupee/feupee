@@ -16,7 +16,10 @@
 <h3 align="center"> About me! 👨‍💻</h3>
 - 🔭 I’m currently working on improving myself! <br>
 - 🎓 Student at Uberlândia Federal University, at 6th period. <br>
-- 💻 Currently learning more about NodeJs & React! <br>
+- 💻 Currently learning more about 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20"/> &           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/>
+           <br>
 - ✈️ Looking and open for new opportunities.
 </div>
 
@@ -55,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
 </div>
 <br>
 
