@@ -15,7 +15,7 @@
 <div align=center>
 <h3 align="center"> About me! 👨‍💻</h3>
 - 🔭 I’m currently working on improving myself! <br>
-- 🎓 Student at Uberlândia Federal University, at 6th period. <br>
+- 🎓 Student at Uberlândia Federal University, at 7th period. <br>
 - 💻 Currently learning more about 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20"/> &           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20"/>
