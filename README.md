@@ -71,21 +71,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
 </div>
 <br>
-<div display="inblock" align="center">
 
-<p  align="center">
-<hr>
-</p>  
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feupee&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</div>
 
-</td>
-</tr>
-</table>
                                                                                     
-
-<p  align="center">
-<hr>
-</p>
